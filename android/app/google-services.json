@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793534548674",
+    "firebase_url": "https://atc-app-31fb0.firebaseio.com",
+    "project_id": "atc-app-31fb0",
+    "storage_bucket": "atc-app-31fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793534548674:android:66e8e4afcb6915946fc95b",
+        "android_client_info": {
+          "package_name": "com.technical.act_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793534548674-7etirjf92ndi70sp4fu8g8lq19ilcinh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEjTK87J-a2He8PsaH1wBtxcRCX3c49kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793534548674-7etirjf92ndi70sp4fu8g8lq19ilcinh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
